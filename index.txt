@@ -2,5 +2,5 @@ agua
 refresco
 papas
 aguacates
-frijoles
+frijoles refritos
 melon
